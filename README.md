@@ -15,6 +15,8 @@
  - [二次元フーリエ変換](https://github.com/hiramekun/Simulation/blob/master/2d-fourier.ipynb)
  
 ## マルチエージェントシステム
+以下の関数の最小値をもたらす(x, y)を近似的に求める．  
+<img src="https://i.imgur.com/QDSMO8R.png" width=50%>
 
  - [粒子群最適化法](https://github.com/hiramekun/Simulation/blob/master/PSO.ipynb)  
  <img src="https://i.imgur.com/LwcVN7b.png" width=100%>
